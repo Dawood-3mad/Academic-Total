@@ -1,0 +1,30 @@
+a{
+    text-decoration-line:none ;
+      }
+#TAT , #TS{
+    text-align: center;
+}
+.body{
+    background-color: white;
+}
+.body , a , p , pre , h1 , h2 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 600px;
+  font-style: normal;
+}
+ul{
+  font-size: 21px;
+}
+#cat{
+  text-align: center;
+  font-size: 25px;
+}
+.body{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThUSr3izVW89bx6cXILHOvUQp1XuWe30Qz1Q&s);
+  background-position: center;
+  background-repeat: repeat;
+}
+#daw{
+  font-size: 22px;
+}
